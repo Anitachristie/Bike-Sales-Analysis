@@ -14,7 +14,7 @@ A project on Bike Sales leveraging Excel to analyze and organize the dataset, cr
 
 ---
 ### Project Overview
-This project analyzes a dataset containing information on customer demographics(age,income, region, marital status, gender e.t.c), commute distance and purchased product for a bike company. Using Excel, I cleaned and organized the data, then created pivot tablesand charts to identify purchase trends and customer behavior patterns. Finally, I developed a dashboard to visualize key metrics such as average income to make data-driven decisions. [Bikes Sales Excel Project.xlsx](https://github.com/user-attachments/files/16805824/Bikes.Sales.Excel.Project.xlsx)
+This project analyzes a dataset containing information on customer demographics(age,income, region, marital status, gender e.t.c), commute distance and purchased product for a bike company. Using Excel, I cleaned and organized the data, then created pivot tables and charts to identify purchase trends and customer behavior patterns. Finally, I developed a dashboard to visualize key metrics such as average income to make data-driven decisions. [Bikes Sales Excel Project.xlsx](https://github.com/user-attachments/files/16805824/Bikes.Sales.Excel.Project.xlsx)
 
 ![Excel Dashboard docx](https://github.com/user-attachments/assets/0f0c99b0-4740-4907-89d4-9e75d59d3ce7)
 
@@ -32,14 +32,14 @@ I utilized Excel for:
 1. Table population using IF function.
 2. Currency formatting.
 3. Removing duplicates or blank cells.
-4. Generating pivot tables and pivot charts to visualize our findings.
+4. Generating pivot tables and pivot charts to visualize findings.
 5. Compiling all charts and filters into a cohesive dashboard.
 
 ---
 ### Exploratory Data Analysis
-This involved exploring the purchase data to answer key quesyions, such as:
-- What is the average income of those who purchased bikes?
-- What is the distance covered by those who purchased bikes?
+This involved exploring the purchase data to answer key questions, such as:
+- What is the average income of those who purchased these bikes?
+- What is the distance covered by those who purchased these bikes?
 - Which age group purchased the most bikes?
 
 ---
