@@ -13,10 +13,12 @@ A project on Bike Sales leveraging Excel to analyze and organize the dataset, cr
 - [Limitations](#limitations)
 
 ### Project Overview
-This project analyzes a dataset containing information on customer demographics(age,income, region, marital status, gender e.t.c), commute distance and purchased product for a bike company. Using Excel, I cleaned and organized the data, then created pivot tablesand charts to identify purchase trends and customer behavior patterns. Finally, I developed a dashboard to visualize key metrics such as average income to make data-driven decisions.
+This project analyzes a dataset containing information on customer demographics(age,income, region, marital status, gender e.t.c), commute distance and purchased product for a bike company. Using Excel, I cleaned and organized the data, then created pivot tablesand charts to identify purchase trends and customer behavior patterns. Finally, I developed a dashboard to visualize key metrics such as average income to make data-driven decisions. [Bikes Sales Excel Project.xlsx](https://github.com/user-attachments/files/16805824/Bikes.Sales.Excel.Project.xlsx)
+
+![Excel Dashboard docx](https://github.com/user-attachments/assets/0f0c99b0-4740-4907-89d4-9e75d59d3ce7)
 
 ### Data Source
-The primary dataset used for this analysis is the "Excel Project Dataset.xlsx" file, containing detailed information about each purchase made by the customer.
+The primary dataset used for this analysis is the "[Excel Project Dataset.xlsx](https://github.com/user-attachments/files/16805832/Excel.Project.Dataset.xlsx)" file, containing detailed information about each purchase made by the customer.
 
 ### Tools
 - Microsoft Excel
@@ -46,7 +48,7 @@ The analysis result are summarized as follows:
 - The average income of purchased bikes is greater in the male gender, with a noticeable peak among customers commuting between 0-1 mile distance. Middle age customers should be targeted for marketing efforts. 
 
 ### Recommendation
-Based onthe analysis, we recommend the following actions:
+Based on the analysis, we recommend the following actions:
 - The company should tailor its marketing campaigns to target customers within the average income brackets with more spending power.
 - Since most bike purchasers commute between 0-1 miles, the company should emphasize the convenience and cost-effectiveness of biking for short distances. Marketing efforts could highlight the environmental and health benefits of using bikes for local errands or short commutes.
 - With the most significant number of bike purchasers being the middle age, the company should design age-specific promotions. This could include offering bikes with features appealing to this age group, such as family-friendly models or bikes suited for both commuting and recreational use. Advertising campaigns could also focus on lifestyle aspects relevant to this age group, such as fitness and work-life balance.
