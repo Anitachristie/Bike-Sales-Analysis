@@ -56,7 +56,7 @@ The analysis result are summarized as follows:
 
 ---
 ### Recommendation
-Based on the analysis, we recommend the following actions:
+Based on the analysis, I recommend the following actions:
 - The company should tailor its marketing campaigns to target customers within the average income brackets with more spending power.
 - Since most bike purchasers commute between 0-1 miles, the company should emphasize the convenience and cost-effectiveness of biking for short distances. Marketing efforts could highlight the environmental and health benefits of using bikes for local errands or short commutes.
 - With the most significant number of bike purchasers being the middle age, the company should design age-specific promotions. This could include offering bikes with features appealing to this age group, such as family-friendly models or bikes suited for both commuting and recreational use. Advertising campaigns could also focus on lifestyle aspects relevant to this age group, such as fitness and work-life balance.
